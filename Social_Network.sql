@@ -1,6 +1,7 @@
 /* ---- database intro. ------
 Students at your hometown high school have decided to organize their social network using databases. So far, they have collected information about sixteen students in four grades, 9-12. Here's the schema:
-（specific records are appended below）
+（View database at: https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/socialdata.html
+  specific records are appended below）
 Highschooler ( ID, name, grade )
 English: There is a high school student with unique ID and a given first name in a certain grade.
 
